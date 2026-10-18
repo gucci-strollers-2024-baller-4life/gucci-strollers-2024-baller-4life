@@ -1,0 +1,173 @@
+# Prioritized PASSLIST for local runs
+
+# Instructions: save as PASSLIST.txt and run tools/bip39_multiword_sweep.py locally.
+# This list prioritizes highest-evidence candidate families from session notes.
+# One candidate per line. Adjust locally and append variants as needed.
+
+# --- Glimmer lyric exact-line variants (compact, underscore, hyphen, suffixes)
+illstillbelovingyou
+ill_still_be_loving_you
+ill-still-be-loving-you
+illstillbelovingyou2023
+illstillbelovingyou2077
+hightidewillbringherbacktothecoast
+high_tide_will_bring_her_back_to_the_coast
+high-tide-will-bring-her-back-to-the-coast
+tidewillbringherback
+bringherback
+onthisshipiwillwaitforthedaythatsheknocksonmydoor
+on_this_ship_i_will_wait_for_the_day_that_she_knocks_on_my_door
+on-this-ship-i-will-wait-for-the-day-that-she-knocks-on-my-door
+thatsheknocksonmydoor
+untilthestarsburnout
+until_the_stars_burn_out
+when_the_final_stars_explode
+whenthefinalstarsexplode
+paintournamesacrossthesilversky
+paint_our_names_across_the_silver_sky
+paint-our-names-across-the-silver-sky
+finalstarsexplode2077
+til_time_stands_still
+til_time_stands_still_2023
+untilthesundoesntshine
+until_the_sun_doesnt_shine
+homeatlast
+home_at_last
+home-at-last
+
+# --- Rocket-overlay phrases & numeric markers
+liftoff
+reentringearthsatmosphere
+re-enterring-earths-atmosphere
+southatlanticanomaly
+south_atlantic_anomaly
+south-atlantic-anomaly
+gforcesincrease
+g-forces-increase
+overlay000
+overlay_000
+overlay601061
+overlay_601061
+601061
+000
+homeatlast
+home_at_last
+
+# --- Mythology / who-is-she / TASCHEN hints
+amphitrite
+amphitrite1
+poseidon
+salacia
+gustavschwab
+taschen
+die_sagen_des_klassischen_altertums
+iceblue
+aqua_velva
+aquavelva
+comicwoman
+flowercrown
+rainbow_waterfall
+who_is_she_amphitrite
+she_is_amphitrite
+
+# --- Pirate/Princess Bride / Silk Road / West family
+dreadpirateroberts
+dread_pirate_roberts
+dread-pirate-roberts
+westley
+westley_roberts
+westley_dread_pirate
+unbridaled
+unbridaled_pirate
+ross_ulbricht
+rossulbricht
+ulbricht
+dreadpirate
+blackbeard
+fanning
+ulrich
+svartholm
+neij
+piracy
+pirate_common_thread
+pirate_common_thread_1
+
+# --- Gilligan / Name-6 / Professor / theme-song pun family
+gilligan
+jonas
+thurston
+lovey
+ginger
+professor
+professor_first
+sing_the_gilligan
+sing_gilligan_theme
+gilligan_theme_song
+shawtygilligan
+sing_the_theme
+name6_gilligan
+profs_first_name
+maryann
+mary_ann
+
+# --- Titanic / iceberg / ocean / whale family
+iceberg
+titannic (typo variants intentionally included)
+iceberg1979
+ill_never_let_go_jack
+abovewater
+abovewater1
+atlantis
+atlantis_ruins
+octopus
+glowinthedark
+whale_message
+speak_to_whales
+mobydick69420
+giant_whale
+sperm_whale_clicks
+
+# --- Extracted page passwords and known reuse candidates
+youshallpass47
+witchoftheeast
+20000leagues
+discoverglimmer
+landho
+huntgathwhalblo
+north64
+albatross
+semaphore
+
+# --- EXIF / packed-date / coordinate encodings (various packed forms)
+# Common packing styles: DMMSS (no separators), DDMMYYYY, YYYYMMDD
+# Example placeholders: replace with your values or generate programmatically
+27075693   # example packed lat (27°07'56.93")
+73511573   # example packed long (73°51'15.73")
+20220729
+20770729
+07292077
+29_07_2077
+29072077
+
+# --- Short substrings & high-priority substrings (fast to test)
+belovingyou
+stillbeloving
+high_tide
+tide_back
+bringher
+ship_wait
+knocks_on_door
+paint_names_silver
+final_stars
+starsburnout
+closertohome
+closer_to_home
+
+# --- Exhaustive fallback: a compact, high-signal subset (no full dictionary)
+amphitrite_poseidon
+discover_music_need_love
+discovermusicneedlove
+whenthefinalstarsexplode
+illstill_til_time
+
+# End of PASSLIST

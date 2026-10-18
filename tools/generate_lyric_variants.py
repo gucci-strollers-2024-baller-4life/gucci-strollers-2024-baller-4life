@@ -28,12 +28,10 @@ def make_variants(line):
     variants.add("".join(words))
     variants.add("_".join(words))
     variants.add("-".join(words))
-    # substrings of length >=2 (to catch condensed forms)
     for L in range(2, len(words)+1):
         for i in range(len(words)-L+1):
             variants.add("".join(words[i:i+L]))
             variants.add("_".join(words[i:i+L]))
-    # with suffixes
     for s in suffixes:
         if s:
             variants.add("".join(words) + s)
